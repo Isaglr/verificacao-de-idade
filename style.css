@@ -1,0 +1,32 @@
+@charset "utf-8";
+
+@font-face {
+    font-family: vinho;
+    src: url(vinho_de_amora/VinhoDeAmoraPERSONALUSEONLY-Black.otf);
+}
+
+h1{
+    font-family: vinho;
+    text-align: center;
+    color: rgb(255, 219, 219);
+    margin-top: 20%;
+}
+
+.formulario{
+    text-align: center;
+    color: white;
+   
+
+}
+img{
+   
+    width: 35%;
+ height: 300px;
+}
+
+body{
+    background-color: black;
+}
+
+
+
